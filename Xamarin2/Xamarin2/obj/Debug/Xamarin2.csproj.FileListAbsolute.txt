@@ -1,0 +1,17 @@
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin2.dll
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin2.pdb
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\obj\Debug\Xamarin2.csprojResolveAssemblyReference.cache
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\obj\Debug\Xamarin2.GreetPagexaml.xaml.g.cs
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\obj\Debug\Xamarin2.dll
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\obj\Debug\Xamarin2.pdb
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\obj\Debug\Xamarin2.StackPage.xaml.g.cs
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\obj\Debug\Xamarin2.dll.mdb
+c:\users\chanwi\documents\visual studio 2015\Projects\Xamarin2\Xamarin2\Xamarin2\bin\Debug\Xamarin2.dll.mdb
