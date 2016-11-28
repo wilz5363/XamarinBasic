@@ -35,5 +35,6 @@ C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xama
 C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xamarin2\obj\Debug\Xamarin2.GridPage.xaml.g.cs
 C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xamarin2\obj\Debug\Xamarin2.Grid_Phone.xaml.g.cs
 C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xamarin2\obj\Debug\Xamarin2.Grid_LoginPage.xaml.g.cs
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xamarin2\obj\Debug\Xamarin2.List_Basic.xaml.g.cs
 C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xamarin2\obj\Debug\Xamarin2.dll.mdb
 C:\Users\Wilson\Documents\Visual Studio 2015\Projects\XamarinBasic\Xamarin2\Xamarin2\bin\Debug\Xamarin2.dll.mdb

@@ -12,7 +12,7 @@ namespace Xamarin2
         public App()
         {
             // The root page of your application
-            MainPage = new Grid_LoginPage();
+            MainPage = new List_Basic();
         }
 
         protected override void OnStart()
